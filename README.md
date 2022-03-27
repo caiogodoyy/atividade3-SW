@@ -1,7 +1,7 @@
 # Atividade 3 - SW
 Atividade 3 de Infra. de Software (Threads)
 
-##Funcionamento
+## Funcionamento
 Primeiro o usuário insere a quantidade de números que o programa vai receber e após isso fornece uma série de números, que será determinada a média dos números, o valor máximo e o valor mínimo.
 <strong>Ex:</strong>
 ```bash
